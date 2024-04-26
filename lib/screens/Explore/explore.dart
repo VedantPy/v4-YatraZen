@@ -209,6 +209,7 @@ class _ExploreState extends State<Explore> with AutomaticKeepAliveClientMixin {
                                   ),
                           ),
                         ),
+                        
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           children: [
